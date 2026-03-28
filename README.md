@@ -13,6 +13,8 @@ This is a full-stack eCommerce platform developed for an international client. T
 ## 🚀 Features
 - Product listing and ordering system
 - Donation page integration
+- Integrated Razorpay/Stripe payment gateway for secure transactions
+- Implemented Laravel authentication system with secure password handling
 - Admin dashboard for managing products, offers, and content
 - Responsive UI
 
