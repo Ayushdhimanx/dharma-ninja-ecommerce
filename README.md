@@ -16,6 +16,7 @@ This is a full-stack eCommerce platform developed for an international client. T
 - Integrated Razorpay/Stripe payment gateway for secure transactions
 - Implemented Laravel authentication system with secure password handling
 - Admin dashboard for managing products, offers, and content
+- Real-time analytics dashboard displaying product revenue and inventory (stock) management
 - Responsive UI
 
 ## 🛠️ Tech Stack
