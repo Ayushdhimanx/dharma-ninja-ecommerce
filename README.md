@@ -26,6 +26,7 @@ This is a full-stack eCommerce platform developed for an international client. T
 
 ## 📸 Preview
 
+![About](screenshots/about.png)
 ![Payment](screenshots/payment.png)
 
 
