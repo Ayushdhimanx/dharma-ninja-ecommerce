@@ -25,10 +25,9 @@ This is a full-stack eCommerce platform developed for an international client. T
 - HTML, CSS, JavaScript
 
 ## 📸 Preview
-![Homepage](screenshots/homepage.png)
-![Products](screenshots/products.png)
-![Donation](screenshots/donation.png)
-![Dashboard](screenshots/dashboard.png)
+
+![Payment](screenshots/payment.png)
+
 
 ## 🔒 Code Availability
 Due to client confidentiality, the source code is not publicly available.
